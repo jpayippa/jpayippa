@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joel Payippara Shibu
 
 🎓 Software Engineering @ Western University
-💻 Full-Stack Developer  |  🤖 AI & Game Dev Enthusiast  |  🎨 Design + Code
+💻 Full-Stack Developer  |  🤖 AI & Game Dev Enthusiast 
 
 ---
 
